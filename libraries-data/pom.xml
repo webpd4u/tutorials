@@ -445,7 +445,7 @@
         <jackson.version>2.9.7</jackson.version>
         <awaitility.version>3.0.0</awaitility.version>
         <assertj.version>3.6.2</assertj.version>
-        <hazelcast.version>3.8.4</hazelcast.version>
+        <hazelcast.version>5.7.0</hazelcast.version>
         <maven-antrun-plugin.version>1.8</maven-antrun-plugin.version>
         <build-helper-maven-plugin.version>3.0.0</build-helper-maven-plugin.version>
         <HikariCP.version>2.7.2</HikariCP.version>
